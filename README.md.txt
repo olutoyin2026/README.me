@@ -69,7 +69,4 @@ https://1drv.ms/b/c/925c787d83832f28/IQC6fdIBvOWbTKne7QQRmHhUAXi4LxeaFdxQEKySXmL
 
 ---
 
-## 🚀 Next Steps
-- Upload more projects as you grow  
-- Add screenshots of dashboards for visual impact  
-- Replace OneDrive links with GitHub-hosted files later for professionalism  
+
